@@ -1,4 +1,4 @@
-# Dood-MarketPlace
+# Nft-MarketPlace-Dood
 ![image](https://user-images.githubusercontent.com/104538616/202982135-c9eb09b6-2c34-46f5-8d5c-3057d610eadf.png)
 
 # Getting Started with Create React App
